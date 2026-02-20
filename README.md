@@ -21,4 +21,7 @@ Notifies users when abnormal patterns are detected
 
 Scalable Design
 Built to support additional devices, features, and large-scale data processing
+
+
+DEMO OF THE UI
 <img width="1892" height="973" alt="image" src="https://github.com/user-attachments/assets/9d1d8796-fa22-4de2-b792-2e8c4b8e2992" />
